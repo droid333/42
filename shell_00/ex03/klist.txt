@@ -1,0 +1,6 @@
+Credentials cache: API:67A341E9-39BF-44CD-BCED-155202777D33
+        Principal: slucas@42MULHOUSE.FR
+
+  Issued                Expires               Principal
+Nov 22 13:13:30 2021  Nov 22 23:13:30 2021  krbtgt/42MULHOUSE.FR@42MULHOUSE.FR
+Nov 22 13:13:32 2021  Nov 22 23:13:30 2021  HTTP/student-storage.42mulhouse.fr@42MULHOUSE.FR
