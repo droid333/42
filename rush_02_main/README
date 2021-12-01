@@ -1,0 +1,1 @@
+Ne pas oublier de free() le tableau 2D qui a ete creer dans la fonction 'spit_string_line' quand on ne s'en sert plus.
