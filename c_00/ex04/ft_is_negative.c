@@ -6,7 +6,7 @@
 /*   By: slucas <slucas@student.42mulhouse.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/11 20:14:58 by slucas            #+#    #+#             */
-/*   Updated: 2021/11/11 20:15:11 by slucas           ###   ########.fr       */
+/*   Updated: 2022/04/15 01:03:27 by slucas           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,13 +17,8 @@ void	ft_is_negative(int n)
 	char	res;
 
 	if (n >= 0)
-	{
 		res = 'P';
-		write(1, &res, 1);
-	}
 	else
-	{
 		res = 'N';
-		write(1, &res, 1);
-	}
+	write(1, &res, 1);
 }
